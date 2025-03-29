@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Buscador</string>
+    <string name="ddd">ddd</string>
+    <string name="telefone">telefone</string>
+    <string name="todo">TODO</string>
+    <string name="fones_no_brasil">Fones no Brasil</string>
+    <string name="copyright_jrobertovl">© Copyright - @jrobertovl</string>
+    <string name="cole_ddd_telefone_no_campo_de_telefone_n_ou_digite_cada_um_em_seu_campo">Cole ddd+telefone no campo de telefone.\n Ou digite cada um em seu campo!</string>
 </resources>
